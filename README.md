@@ -5,7 +5,7 @@
 -->
 Here are some facts "about me":
 
-- 🔭 I’m currently working on improving my programming skills ...
+- 🔭 I’m currently working on improving my programming and dev skills ...
 - 🌱 I’m currently learning Git, GitHub, Front-end, Python, and  more.
 - 👯 I’m looking to collaborate on developing learning platforms.
 - 🤔 I’m looking for help with wireframe on projecs.
